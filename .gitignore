@@ -1,0 +1,24 @@
+# Folders to ignore
+/.mixin.out/
+/downloads/
+/journeymap/
+/llibrary/
+/local/
+/logs/
+/mods/
+/patchouli_books/
+/reports/
+/saves/
+/snapshots-server/
+/tv-cache/
+/WCalarms/
+
+#robaccia
+.curseclient
+
+#altra robaccia
+OpenComputersMod-1.7.5.192-lua52-native.64.dll
+OpenComputersMod-1.7.5.192-lua53-native.64.dll
+
+#roba server
+servers.dat
